@@ -1,6 +1,6 @@
 # 42-Cursus
 
-This repository contains links to other repositories related to the 42 Cursus.
+This repository contains links to other repositories related to the 42 Cursus, in the order which I have been doing it.
 
  <h3>Projects</h3>
 
