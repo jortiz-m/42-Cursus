@@ -2,7 +2,7 @@
 
 This repository contains links to other repositories related to the 42 Cursus.
 
-## Proyectos
+ <h3>Proyectos</h3>
 
 - [Libft](https://github.com/jortiz-m/libft) : A library of functions in C.
 - [ft_printf](https://github.com/jortiz-m/ft_printf) : An implementation of the printf function.
