@@ -13,4 +13,5 @@ This repository contains links to other repositories related to the 42 Cursus, i
 - [So_long](https://github.com/jortiz-m/So_long) : My first 2D game.
 
 <h3>Exam</h3>
-- [Rank 2](https://github.com/jortiz-m/42-exam)
+
+- [Exam](https://github.com/jortiz-m/42-exam) : Exams of 42.
