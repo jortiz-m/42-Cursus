@@ -11,3 +11,6 @@ This repository contains links to other repositories related to the 42 Cursus, i
 - [Push swap](https://github.com/jortiz-m/Get_next_line) : A program that sort numbers with Three Quick Sort algorithm.
 - [Pipex](https://github.com/jortiz-m/pipex) : A proyect like as real pipe function.
 - [So_long](https://github.com/jortiz-m/So_long) : My first 2D game.
+
+<h3>Exam</h3>
+- [Rank 2](https://github.com/jortiz-m/42-exam)
