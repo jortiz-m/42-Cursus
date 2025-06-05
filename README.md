@@ -12,6 +12,7 @@ This repository contains links to other repositories related to the 42 Cursus, i
 - [Pipex](https://github.com/jortiz-m/pipex) : A project like as real pipe function.
 - [So_long](https://github.com/jortiz-m/So_long) : My first 2D game.
 - [Philosophers](https://github.com/jortiz-m/Philosophers) : It is a simulation of a classic problem, where you work with trheads.
+- [Minishell](https://github.com/jortiz-m/Minishell) : A shell implementation.
 
 <h3>Exam</h3>
 
