@@ -13,7 +13,3 @@ This repository contains links to other repositories related to the 42 Cursus, i
 - [So_long](https://github.com/jortiz-m/So_long) : My first 2D game.
 - [Philosophers](https://github.com/jortiz-m/Philosophers) : It is a simulation of a classic problem, where you work with trheads.
 - [Minishell](https://github.com/jortiz-m/Minishell) : A shell implementation.
-
-<h3>Exam</h3>
-
-- [Exam](https://github.com/jortiz-m/42-exam) : Exams of 42.
