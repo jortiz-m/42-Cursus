@@ -13,3 +13,4 @@ This repository contains links to other repositories related to the 42 Cursus, i
 - [So_long](https://github.com/jortiz-m/So_long) : My first 2D game.
 - [Philosophers](https://github.com/jortiz-m/Philosophers) : It is a simulation of a classic problem, where you work with trheads.
 - [Minishell](https://github.com/jortiz-m/Minishell) : A shell implementation.
+- [Cub3D](https://github.com/jortiz-m/Cub3D) : Is a project to create a dynamic view inside a 3D maze, implementing raycasting like a famous game Wolfenstein.
